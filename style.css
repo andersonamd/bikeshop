@@ -11,7 +11,7 @@
 }
 .grde-img{
     background-image: url(bike-background.jpg);
-    height: 150px;
+    height: 300px;
     background-size: cover;
     background-position: center;
 }
@@ -19,5 +19,18 @@
     text-decoration: none;
     color: white;
     
+
+}
+.container{
+    background-color: rgb(196, 196, 196);
+    background-size: cover;
+    background-position: center;
+    opacity: 95%;
+}
+body{
+    background-color: rgb(196, 196, 196);
+    background-size: cover;
+    background-position: center;
+    opacity: 95%;
 
 }
