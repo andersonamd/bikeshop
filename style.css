@@ -1,0 +1,23 @@
+.header{
+    background-color:rgb(54, 54, 54) ;
+    height: 60px;
+
+}
+
+.logo{
+    height: 90px;
+    width: 90px;
+    
+}
+.grde-img{
+    background-image: url(bike-background.jpg);
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+}
+.c{
+    text-decoration: none;
+    color: white;
+    
+
+}
